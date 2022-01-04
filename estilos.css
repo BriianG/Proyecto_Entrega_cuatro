@@ -1,0 +1,123 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+h3{
+    overflow-x: hidden;
+}
+
+.logo-marca{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.logo-marcaFotter{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.nav-Fondo{
+    color: white;
+    font: bolder;
+}
+
+.imagen {
+    border-radius: 100%;
+    width: 450px;
+    height: 450px;
+}
+
+.imagenHeader {
+    width: 250px;
+    height: 200px;
+}
+
+
+
+.imagenCarrusel {
+    width: 400px;
+    height: 700px;;
+    padding: -100px;
+
+}
+
+.estiloCarrusel{
+    color: black;
+    text-align: center;
+    font: bolder;
+    font-style: italic;
+}
+
+
+
+    body{
+        background-color: rgb(238, 228, 228);
+        background-size: auto;
+        border: 1px;
+        margin: 0;
+        padding: 0;
+    
+    }
+
+
+    /* footer */
+.linea{
+    text-decoration: wavy;
+}
+
+/* NAV */
+#color {
+    color: black;
+}
+
+.titulo{
+    font-size: 32px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+/* SERVICIO */
+.imagenServicio{
+width: 450px;
+height: 250px;
+padding: 10px;
+margin: 5px;
+border-radius: 100%;
+}
+
+/* NOSOTROS */
+
+.imagenNosotros {
+    border-radius: 100%;
+}
+
+
+/* CONTACTO */
+
+
+.main{
+    margin: 10px;
+}
+
+.h-remove{
+    overflow-x: hidden;
+}
+
+
+.titulos {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.margin{
+    margin-top: 30px;
+}
+
+.margin-Adentro{
+margin: 10px;
+}
