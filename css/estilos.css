@@ -113,3 +113,11 @@ border-radius: 100%;
     font-weight: bolder;
     font-size: 18px;
 }
+
+.margin{
+    margin-top: 30px;
+}
+
+.margin-Adentro{
+margin: 10px;
+}
